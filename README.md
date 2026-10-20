@@ -2,9 +2,9 @@
 
 ## About Me
 
-* Temple High School student
+* Student at Temple High School
 * Learning C++ in system design
-* Interested in aerospace engineering
+* Interested in astronomy, spaceflight, and computing
 
 ## Social Links
 
