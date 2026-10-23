@@ -3,8 +3,8 @@
 ## About Me
 
 * Student at Temple High School
-* Learning C++ in system design
-* Interested in astronomy, spaceflight, and computing
+* Learning C++
+* Interested in efficient energy use, recycling, and computation
 
 ## Social Links
 
