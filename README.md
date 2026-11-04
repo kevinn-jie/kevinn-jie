@@ -3,8 +3,8 @@
 ## About Me
 
 * Student at Temple High School
-* Learning C++
-* Interested in efficient energy use, recycling, and computation
+* Learning C++ and Python
+* Interested in quantum computing and machine learning
 
 ## Social Links
 
