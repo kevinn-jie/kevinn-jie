@@ -17,4 +17,3 @@
 
 * Python 3.12
 * C++17
-* Claude Code
