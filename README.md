@@ -3,8 +3,8 @@
 ## About Me
 
 * Student at Temple High School
-* Learning C++ and Python
-* Interested in quantum computing and machine learning
+* Learning C and orbital mechanics
+* Interested in astronautic technology and energy efficiency
 
 ## Social Links
 
