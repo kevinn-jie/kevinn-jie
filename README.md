@@ -15,5 +15,5 @@
 ## Tech Stack
 
 * C23
-* Python 3.12
-* C++17
+* Python 3.14
+* C++26
