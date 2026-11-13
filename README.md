@@ -3,7 +3,7 @@
 ## About Me
 
 * Student at Temple High School
-* Learning C and orbital mechanics
+* Learning C and programming language design
 * Interested in astronautic technology and energy efficiency
 
 ## Social Links
