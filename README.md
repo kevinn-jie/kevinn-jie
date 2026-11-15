@@ -4,7 +4,7 @@
 
 * Student at Temple High School
 * Learning C and programming language design
-* Interested in astronautic technology and energy efficiency
+* Interested in quantum computing and energy efficiency
 
 ## Social Links
 
