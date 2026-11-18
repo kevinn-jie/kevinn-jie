@@ -3,7 +3,7 @@
 ## About Me
 
 * Student at Temple High School
-* Learning C and programming language design
+* Learning C and solar panel optimization
 * Interested in quantum computing and energy efficiency
 
 ## Social Links
