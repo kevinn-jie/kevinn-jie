@@ -10,6 +10,7 @@
 
 * My Email: kevinwjie@gmail.com
 * My LinkedIn: [in/kevin-jie-21a477368](https://www.linkedin.com/in/kevin-jie-21a477368/)
+* My YouTube: [@kevinn-jie](https://www.youtube.com/@kevinn-jie)
 
 ## Tech Stack
 
