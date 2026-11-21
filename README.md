@@ -3,14 +3,13 @@
 ## About Me
 
 * Student at Temple High School
-* Learning C and solar panel optimization
-* Interested in quantum computing and energy efficiency
+* Learning C++, C and Python
+* Interested in financial quantitative analysis
 
 ## Social Links
 
 * My Email: kevinwjie@gmail.com
 * My LinkedIn: [in/kevin-jie-21a477368](https://www.linkedin.com/in/kevin-jie-21a477368/)
-* My Instagram: [kevinn_jie](https://www.instagram.com/kevinn_jie/)
 
 ## Tech Stack
 
