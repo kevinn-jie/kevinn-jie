@@ -3,7 +3,7 @@
 ## About Me
 
 * Student at Temple High School
-* Learning C++, C and Python
+* Learning C++, Python, and statistics
 * Interested in financial quantitative analysis
 
 ## Social Links
