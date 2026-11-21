@@ -2,9 +2,9 @@
 
 ## About Me
 
-* Student at Temple High School
-* Learning C++, Python, and statistics
-* Interested in financial quantitative analysis
+* I am Student at Temple High School
+* Learning C++ and interested in computation
+* I use computation to model and improve physical systems, starting with problems right in front of me, and share what I learn
 
 ## Social Links
 
