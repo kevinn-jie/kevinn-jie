@@ -2,9 +2,7 @@
 
 ## About Me
 
-* I am Student at Temple High School
-* Learning C++ and interested in computation
-* I use computation to model and improve physical systems, starting with problems right in front of me, and share what I learn
+Hello, I am Kevin Jie. I am student at Temple High School learning C++ and interested in computation. I want to use computation to model and improve physical systems, starting with problems right in front of me, and share what I learn.
 
 ## Social Links
 
