@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I am Kevin Jie. I am student at **Temple High School** learning **C++** and interested in **computation**. I want to use computation to model and improve physical systems, starting with problems right in front of me, and share what I learn.
+Hello, I am Kevin Jie. I am student at **Temple High School** learning **C++** and am interested in **quantum computing**. I like to use computers to **model and improve** physical systems. I hope to see quantum computing revolutionize **materials discovery and cryptography**.
 
 ## Social Links
 
